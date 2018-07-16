@@ -9,6 +9,6 @@
 		<conf name="default" />
 	</configurations>
 	<publications>
-		<artifact conf="default" url="https://projectlombok.org/downloads/lombok.patcher-0.24.jar" />
+		<artifact conf="default" url="http://projectlombok.org/downloads/lombok.patcher-0.24.jar" />
 	</publications>
 </ivy-module>
